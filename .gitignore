@@ -1,0 +1,6 @@
+screenshots/
+.google/
+.gradle/
+.idea
+*.iml
+build/
