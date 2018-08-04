@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1046503806498",
+    "firebase_url": "https://fingerprintdialogkotlin.firebaseio.com",
+    "project_id": "fingerprintdialogkotlin",
+    "storage_bucket": "fingerprintdialogkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046503806498:android:0567310318638038",
+        "android_client_info": {
+          "package_name": "com.example.android.fingerprintdialog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046503806498-084ie2l9cibq6g09qa12kh1lon4n485l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.fingerprintdialog",
+            "certificate_hash": "6a57b6526d67d046dc42fe8395ba2dad3b51cb53"
+          }
+        },
+        {
+          "client_id": "1046503806498-07a3fqqik47lcm4opc6hpfj5ajn3c1eq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi81vYz53OjJTgyX6xue0JZzWhnuiG38c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046503806498-07a3fqqik47lcm4opc6hpfj5ajn3c1eq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
