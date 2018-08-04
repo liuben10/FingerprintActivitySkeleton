@@ -4,3 +4,4 @@ screenshots/
 .idea
 *.iml
 build/
+local.properties
